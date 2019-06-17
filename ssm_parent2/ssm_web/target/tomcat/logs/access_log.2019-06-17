@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [17/Jun/2019:16:25:31 +0800] "GET /ssm_web/items/user HTTP/1.1" 404 987 http-bio-8080-exec-1 75
+0:0:0:0:0:0:0:1 - - [17/Jun/2019:16:25:31 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [17/Jun/2019:16:25:59 +0800] "GET /ssm_web/item/user HTTP/1.1" 200 585 http-bio-8080-exec-4 1684
+0:0:0:0:0:0:0:1 - - [17/Jun/2019:16:26:51 +0800] "GET /ssm_web/item/user HTTP/1.1" 200 646 http-bio-8080-exec-1 1026
